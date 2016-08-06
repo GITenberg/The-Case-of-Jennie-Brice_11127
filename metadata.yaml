@@ -1,0 +1,40 @@
+_repo: The-Case-of-Jennie-Brice_11127
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Bracker, M. Leone
+    birthdate: 1885
+    deathdate: 1937
+    gutenberg_agent_id: '8758'
+    url: http://www.gutenberg.org/2009/agents/8758
+creator:
+  author:
+    agent_name: Rinehart, Mary Roberts
+    birthdate: 1876
+    deathdate: 1958
+    gutenberg_agent_id: '183'
+    url: http://www.gutenberg.org/2009/agents/183
+    wikipedia: http://en.wikipedia.org/wiki/Mary_Roberts_Rinehart
+description: "The Case of Jennie Brice is a crime novel by the American writer Mary\
+  \ Roberts Rinehart (1876–1956) set in 1904 in Allegheny, Pennsylvania, which has\
+  \ been a part of the city of Pittsburgh since 1907.\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2004-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11127'
+  wikidata: Q7721500
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Boardinghouses -- Fiction'
+- !lcsh 'Detective and mystery stories'
+- !lcsh 'Actors and actresses -- Fiction'
+- !lcsh 'Murder -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: The Case of Jennie Brice
+url: http://www.gutenberg.org/ebooks/11127
+wikipedia:
+- https://en.wikipedia.org/wiki/The_Case_of_Jennie_Brice
